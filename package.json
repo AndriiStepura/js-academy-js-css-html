@@ -1,0 +1,28 @@
+{
+  "name": "js-academy-js-css-html",
+  "version": "1.0.0",
+  "description": "Intro to js, css and html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node_modules/lite-server/bin/lite-server --baseDir=\"src\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamwallacebrave/js-academy-js-css-html.git"
+  },
+  "keywords": [
+    "js",
+    "css",
+    "html"
+  ],
+  "author": "VS team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamwallacebrave/js-academy-js-css-html/issues"
+  },
+  "homepage": "https://github.com/williamwallacebrave/js-academy-js-css-html#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
